@@ -1,5 +1,9 @@
 # Postfix To Prefix Conversion
 
+![GitHub top language](https://img.shields.io/github/languages/top/madushas/postfixToPrefix_binaryTree)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/madushas/postfixToPrefix_binaryTree)
+![GitHub forks](https://img.shields.io/github/forks/madushas/postfixToPrefix_binaryTree?style=plastic)
+
 This repository contains the C code for converting postfix expressions to prefix expressions using a binary tree and a stack.
 
 ## Usage
